@@ -10,6 +10,8 @@ print(f"Hello,{name_full.title()[:name_full.index(" ")]}!\n"
       f"Welcome to Codezilla!")
 
 
+
+#----------------------------
  # id = first 3 characters of company name + - + last 2
  # characters of name + birth year
 
